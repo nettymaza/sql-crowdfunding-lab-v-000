@@ -10,7 +10,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (9, 'Help the cats of liberty', 'charity', 4000.00, '2014-06-30', '2014-09-30'),
 (10, 'Help save the quails', 'charity', 500.00, '2012-03-20', '2013-06-30');
 
-INSERT INTO users (id, name, age) VALUES (1, 'Maria', 17), (2, 'Eddo', 6), (3, 'Thom', 4), (4, 'Kate', 33),
-(5, 'Laure', 24), (6, 'Rikki', 24), (7, 'Emma', 9), (8, 'Victoria', 23), (9, 'Clark', 100), (10, 'Ryan', 30),
-(11, 'Willo', 90), (12, 'Pedro', 24), (13, 'Tata', 4), (14, 'David', 36), (15, 'Cassy', 113), (16, 'Jemma', 5),
-(17, 'Tyler', 6), (18, 'Sabrina', 5), (19, 'Jaime', 24), (20, 'Katie', 24);
+INSERT INTO users (id, name, age) VALUES (1, 'Maria', 22), (2, 'Eddo', 25), (3, 'Thom', 30), (4, 'Kate', 33),
+(5, 'Lauren', 24), (6, 'Rikki', 29), (7, 'Emma', 19), (8, 'Victoria', 32), (9, 'Clark', 28), (10, 'Ryan', 30),
+(11, 'Willo', 40), (12, 'Pedro', 28), (13, 'Tata', 14), (14, 'David', 36), (15, 'Cassy', 50), (16, 'Jemma', 55),
+(17, 'Tyler', 32), (18, 'Sabrina', 29), (19, 'Jaime', 28), (20, 'Katie', 21);
